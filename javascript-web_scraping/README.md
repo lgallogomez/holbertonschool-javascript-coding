@@ -1,0 +1,1 @@
+This project is all about scraping the web using the requests libary in Javascript.
