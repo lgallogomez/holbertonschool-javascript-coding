@@ -2,7 +2,7 @@
 
 const request = require('request');
 
-const url = argv[2];
+const url = process.argv[2];
 
 request.get(url, (error, response) => {
   if (error) {
